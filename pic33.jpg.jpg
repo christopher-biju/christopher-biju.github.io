@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CHRISTOPHER's Portfolio</title>
+        <link rel="stylesheet" href="bstyles.css">
+    </head>
+    <body>
+        <!-- Navigation Bar -->
+        <header class="header">
+            <a href="bindex.html" class="logo">CHRISTOPHER</a>
+            <div class="overlay">
+                <div class="navbar">
+                    <a href="bindex.html" class="active-page">Home</a>
+                    <a href="babout.html" class="normal-page">services</a>
+                    <a href="bproject.html" class="normal-page">Project</a>
+                    <a href="bproject.html" class="normal-page">contactme</a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Part -->
+        <section id="home">
+            <div class="container-fluid">
+                <img src="c:\Users\lab\Desktop\b\pic.jpg.jpg" alt="smile Image" width="300px" class="image">
+                <div class="row">
+                    <h2 class="hero_title">Hi, it's me CHRISTOPHER BIJU</h2>
+                    <p class="hero_desc">I am a profession front end developer</p>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
